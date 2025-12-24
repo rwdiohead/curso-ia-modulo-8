@@ -418,3 +418,14 @@ Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\obj\Debug\net8.0\refint\Shop
 Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\obj\Debug\net8.0\ShoppingListAPI.Tests.pdb
 Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\obj\Debug\net8.0\ShoppingListAPI.Tests.genruntimeconfig.cache
 Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\obj\Debug\net8.0\ref\ShoppingListAPI.Tests.dll
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\appsettings.Development.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\appsettings.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\MvcTestingAppManifest.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.deps.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.runtimeconfig.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests.deps.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests.runtimeconfig.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\obj\project.assets.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\obj\ShoppingListAPI.Tests.csproj.nuget.dgspec.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+Y:\Users\yy\curso-ia-modulo-8\ShoppingListAPI.Tests\obj\Debug\net8.0\ShoppingListAPI.Tests.sourcelink.json

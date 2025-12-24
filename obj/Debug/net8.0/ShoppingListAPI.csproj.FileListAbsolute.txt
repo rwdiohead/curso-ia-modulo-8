@@ -43,3 +43,4 @@ Y:\Users\yy\curso-ia-modulo-8\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\n
 Y:\Users\yy\curso-ia-modulo-8\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\obj\project.assets.json
 Y:\Users\yy\curso-ia-modulo-8\bin\Debug\net8.0\ShoppingListAPI.Tests\bin\Debug\net8.0\ShoppingListAPI.Tests\obj\ShoppingListAPI.Tests.csproj.nuget.dgspec.json
 Y:\Users\yy\curso-ia-modulo-8\bin\Debug\net8.0\ShoppingListAPI.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+Y:\Users\yy\curso-ia-modulo-8\obj\Debug\net8.0\ShoppingListAPI.sourcelink.json
